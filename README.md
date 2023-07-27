@@ -17,7 +17,7 @@ en ese apartado encuentras el archivo: httpd.conf
 
 
 Buscas el AllowOverride
-Al principio estará en none y se tiene que cambiar a All
+Al principio estará en none y se tiene que cambiar a
 AllowOverride All, guardas y reinicias tu servidor
 y en el mismo archivo verifiquen que el mod_rewrite
 este activo les tiene que aparecer de esta forma
