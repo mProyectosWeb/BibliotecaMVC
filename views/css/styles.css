@@ -1,0 +1,12 @@
+.img-fluid{
+    width: 100%;
+    height: 200px;
+}
+
+.custom-nav-spacing li {
+    margin-right: 25px; /* Ajusta el valor según el espacio deseado entre los elementos */
+}
+
+.btn-group{
+    margin-top: 10px;
+}
