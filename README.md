@@ -13,7 +13,7 @@ tienes que hacer unas configuraciones el archivo (httpd.conf)
 
 
 Abres Laragon y en la parte de menú seleccionas apache
-en ese apartado encuentras encuentras: httpd.conf
+en ese apartado encuentras el archivo: httpd.conf
 
 
 Buscas el AllowOverride
