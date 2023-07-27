@@ -1,5 +1,5 @@
 # Cargar la base de datos que se encuentra en:
-BD/libros.sql
+DB/libros.sql
 
 
 # Biblioteca MVC
