@@ -1,11 +1,11 @@
-Cargar la base de daos que se encuentra en:
+# Cargar la base de daos que se encuentra en:
 BD/libros.sql
 
 # BibliotecaMVC
 Proyecto realizado con el patrón MVC y rutas amigables 
 Proyecto realizado por Miguel Angel
 
-Recuerda el proyecto funciona con rutas amigables
+# Recuerda el proyecto funciona con rutas amigables
 si no te funciona y estas utilizando Laragon como servidor
 tienes que hacer unas configuraciones el archivo (httpd.conf)
 
@@ -19,4 +19,4 @@ y en el mismo archivo verifiquen que el mod_rewrite
 este activo les tiene que aparecer de esta forma
 LoadModule rewrite_module modules/mod_rewrite.so sin el #
 
-con esas configuraciones les debe de funcionar sin problemas
+# con esas configuraciones les debe de funcionar sin problemas
